@@ -41,6 +41,7 @@ return {
           "--indent-labels",
           "--indent-preproc-block",
           "--indent-col1-comments",
+          "--indent=spaces=2",
         },
       },
     },
